@@ -9,7 +9,7 @@ void quadratic(float a, float b,float c){//a*x^2+b*x+c
     }else if (flag > 0){
         printf("%f±sqrt(%f)/%f\n",-b,flag,2*a);
     }else if (flag < 0){
-        printf("%f±sqrt(%f)/%f\n",-b,-flag,a);
+        printf("%f±sqrt(%f)i/%f\n",-b,-flag,a);
     }
     
     
