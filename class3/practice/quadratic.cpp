@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// 演習問題1
+
 void quadratic(float a, float b,float c){//a*x^2+b*x+c
     printf("%f*x^2 + %f*x + %f\n",a,b,c);
     float flag = b*b - 4*a*c;
