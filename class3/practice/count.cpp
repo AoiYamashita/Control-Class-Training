@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// 演習問題3
+// 演習問題5
 
 int fib(int N,int* cnt){
     (*cnt)++;

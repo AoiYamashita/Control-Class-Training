@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// 演習問題4
+// 演習問題7
 
 int main(void){
     int size = 10;

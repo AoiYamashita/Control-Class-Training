@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// 演習問題5
+// 演習問題8
 
 int main(void){
     char str[] = "hello world!!";

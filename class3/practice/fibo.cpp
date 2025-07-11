@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// 演習問題2
+// 演習問題3
 
 int fib(int N){
     if(N == 0)return 0;
