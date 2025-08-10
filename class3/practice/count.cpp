@@ -12,7 +12,7 @@ int fib(int N,int* cnt){
 
 int main(void){
     int cnt = 0;
-    fib(11,&cnt);
+    fib(22,&cnt);
     printf("%d\n",cnt);
     return 0;
 }
